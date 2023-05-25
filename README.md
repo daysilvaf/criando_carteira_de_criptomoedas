@@ -1,1 +1,1 @@
-# criando_carteira_de_criptomoedas
+Atividade de desafio de projeto da Formação Blockchain Specialist da DIO onde foi criado um gerador de carteiras bitcoin, utilizando pares de chave pública e privada. Foi desenvolvido um gerador para criar endereços de depósito e envio de bitcoin para a carteira gerada. Além disso, foi importada a carteira para dentro do Electrum, um aplicativo desktop para enviar e receber transações em bitcoin, e por fim enviar criptomoedas.
